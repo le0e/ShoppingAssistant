@@ -9,5 +9,5 @@ Below you can see the User Interface.
 
 ![image](https://github.com/user-attachments/assets/d9faaa12-0424-4038-a666-7bc8ba370a94)
 
-The recipes where taken from [allrecipes ](https://www.allrecipes.com/) and the prices for certain units of ingredients where estimated with the help of ChatGPT. 
+The recipes where taken from [allrecipes ](https://www.allrecipes.com/) and the prices for certain units of ingredients where estimated with the help of [ChatGPT](https://chatgpt.com/). 
 
